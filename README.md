@@ -1,4 +1,4 @@
-reac-css-in-js
+react-css-in-js
 ============
 
 A simple example of React using CSS inline in from an external styles.js
