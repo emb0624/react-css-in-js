@@ -1,16 +1,16 @@
 {
-  "name": "react-es6-hello-world",
+  "name": "react-css-in-js",
   "version": "1.0.0",
-  "description": "Hello World on ReactJS and new ES6",
+  "description": "Hello World on ReactJS using inline CSS styles on JS",
   "repository": {
     "type": "git",
-    "url": "git@github.com:emb0624/react_es6_hello_world.git"
+    "url": "git@github.com:emb0624/react-css-in-js.git"
   },
   "author": "Emmanuel Morales <emorales0024@gmail.com> (https://github.com/emb0624)",
   "bugs": {
-    "url": "https://github.com/emb0624/react_es6_hello_world/issues"
+    "url": "https://github.com/emb0624/react-css-in-js/issues"
   },
-  "homepage": "https://github.com/emb0624/react_es6_hello_world",
+  "homepage": "https://github.com/emb0624/react-css-in-js",
   "aliasify": {
     "aliases": {
       "app": "./src/components/"
